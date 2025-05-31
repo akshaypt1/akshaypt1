@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Passionate Programmer | Python Enthusiast | Web Developer</b>
+  <b>Passionate Programmer | Python          | Web Developer</b>
 </p>
 
 ---
