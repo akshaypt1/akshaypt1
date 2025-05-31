@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 
 <p align="center">
-  <img src="" width="80%" />
+  <img src="https://github.com/akshaypt1/akshaypt1/blob/main/github-ppic.gif" width="80%" />
 </p>
 
 <!---
