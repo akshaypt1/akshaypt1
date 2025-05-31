@@ -24,6 +24,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 
 ---
 <!--
@@ -36,7 +37,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshaypt1/akshaypt1/main/git.gif" width="90%" />
+  <img src="https://github.com/akshaypt1/akshaypt1/blob/main/sample.gif" width="90%" />
 </p>
 
 ---
