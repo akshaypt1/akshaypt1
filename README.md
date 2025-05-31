@@ -18,13 +18,16 @@
 
 ---
 
-### 🚀 Tech Stack I’m Working With:
+# 🚀 Tech Stack I’m Working With:
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap)
+
 
 ---
 <!--
