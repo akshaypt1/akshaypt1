@@ -44,20 +44,6 @@
 </p>
 
 ---
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaypt1&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="akshaypt1's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypt1&theme=dracula&hide_border=true&layout=compact&langs_count=8&hide=html,css" alt="akshaypt1's top languages"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypt1&theme=dracula&hide_border=true&fire=DD472C&ring=DD472C" alt="akshaypt1's streak"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshaypt1&color=dd472c&style=flat-square" alt="Profile views"/>
-</div>
 
 *<p align="center">Thanks for visiting! ⭐ Feel free to follow or check out my repositories 😊</p>*
 
