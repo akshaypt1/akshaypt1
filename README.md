@@ -33,7 +33,7 @@
 
 ### *📫 How to Reach Me:
 - 📧 akshaypt10@gmail.com 
-<a href="https://instagram.com/akshaei.__" target="_blank">
+- <a href="https://instagram.com/akshaei.__" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <!--
