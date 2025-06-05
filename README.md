@@ -30,9 +30,13 @@
 
 
 ---
-<!--
+
 ### *📫 How to Reach Me:
-- 📧 akshay@gmail.com 
+- 📧 akshaypt10@gmail.com 
+<a href="https://instagram.com/akshaei.__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<!--
 - 🌐 [My Portfolio](https://your-portfolio-link.com)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)*
