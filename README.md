@@ -33,15 +33,15 @@
 
 ### *📫 How to Reach Me:
 - 📧 akshaypt10@gmail.com 
-- <a href="https://instagram.com/akshaei.__" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+- 💻 github.com/akshaypt1  
+- 📸 instagram.com/akshaei.__
 <!--
 - 🌐 [My Portfolio](https://your-portfolio-link.com)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)*
-
 -->
+
+---
 
 <p align="center">
   <img src="https://github.com/akshaypt1/akshaypt1/blob/main/sample.gif" width="90%" />
