@@ -33,8 +33,11 @@
 
 ### *📫 How to Reach Me:
 - 📧 akshaypt10@gmail.com 
-- 💻 github.com/akshaypt1  
-- 📸 instagram.com/akshaei.__
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshaei.__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourhandle)
+
 <!--
 - 🌐 [My Portfolio](https://your-portfolio-link.com)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
