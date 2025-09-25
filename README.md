@@ -39,6 +39,7 @@
 <!-- - 📧 akshaypt10@gmail.com <br> -->
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/akshay.akshay.476578)<br>
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshaei.__)<br>
+- 💼 [LinkedIn](https://linkedin.com/in/akshay-pt-826a1a324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <!--
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youruwuwuwuwu)<br>
 -->
